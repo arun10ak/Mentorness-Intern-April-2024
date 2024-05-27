@@ -56,25 +56,25 @@ analyses.
 - Insights into potential risk factors and recommendations for improving aviation safety.
 
    ### Temporal Analysis:
- ![DASH](https://github.com/SamMureu/Plane-crush-analysis-using-power-Bi/assets/84933401/cd4834a0-5ab0-4a2d-9353-99f7513bf67e)
+ ![DASH]()
 Post-2000, there has been a noticeable decline in the number of airplane crashes, indicating an improvement in safety measures.
 The most substantial increase in crashes occurred between 1940 and 1950.
 Approximately 25% of crashes were attributed to weather conditions, 8.5% to attacks, and the majority, 68%, were due to other causes.
 
  ### Geospatial Analysis:
- ![image](https://github.com/SamMureu/Plane-crush-analysis-using-power-Bi/assets/84933401/63b3d569-4fdc-4573-982b-93b0367ca7dc)
+ ![image]()
 The regions with the highest incidence of airplane crashes are predominantly Russia, China, and Europe. However, the dataset lacks information regarding crashes in the USA.
  ### Operator Performance:
 
 Aeroflot stands out as the operator with the highest number of crashes, totaling 255 incidents, followed by the U.S. Air Force with 139 crashes.
 ### Aircraft Analysis:
-![22](https://github.com/SamMureu/Plane-crush-analysis-using-power-Bi/assets/84933401/17afae56-ecce-4722-a4d3-342b05a3aa09)
+![22]()
 Among aircraft types, the Douglas DC-3 has the highest crash frequency, with a total of 18 incidents, followed by the Douglas C-47 with 16 crashes.
 ### Fatality Analysis:
 
 Overall, there have been 112K fatalities, with 17K crew deaths and 91K passenger deaths. Aeroflot alone accounts for 8858 fatalities.
 Route Analysis:
-![image](https://github.com/SamMureu/Plane-crush-analysis-using-power-Bi/assets/84933401/9b4c307e-3e4b-44a8-b7ec-9ad64b363ed3)
+![image]()
 
 
 The majority of crashes occurred on routes categorized as unknown (777), followed by training routes (93).
